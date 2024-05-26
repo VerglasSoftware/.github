@@ -6,4 +6,4 @@ Our main project in development is a capture-the-flag/quiz platform tailored tow
 
 We're most well known for organizing the annual [IglooCode](https://iglooco.de) programming competition for 13-15 year olds at Queen's University, in partnership with [Kainos](https://kainos.com) and [Liberty IT](https://www.liberty-it.co.uk/about-us/overview). 🧒🥈 Our last event in Belfast welcomed over 100 aspiring programmers from 16 schools across the country. 🚌🏆
 
-Verglas Software Limited is a company registered in England and Wales (no. 14838037). Verglas and/or IglooCode is not associated with Slemish College or Strathearn School, and any publications from us do not represent their views.
+Verglas (NI) Limited  is a company registered in Northern Ireland (no. NI716105). Registered office: 100 Lisburn Road, Belfast, BT9 6AG. Verglas, IglooCode and Educatr are not associated with Slemish College or Strathearn School, and any publications from us do not represent their views. IglooCode and Educatr are trademarks of Verglas (NI) Limited.
