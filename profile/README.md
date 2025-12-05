@@ -6,4 +6,4 @@ Our main project in development is a capture-the-flag/quiz platform tailored tow
 
 We're most well known for organizing the annual [IglooCode](https://iglooco.de) programming competition for 13-14 year olds at Queen's University, 🧒🥈 Our events in Belfast have welcomed over 300 aspiring programmers from 25+ schools across the country. 🚌🏆
 
-Verglas (NI) CIC  is a community interest company registered in Northern Ireland (no. NI716105). Registered office: Office 218, 92 Castle Street, Belfast, BT1 1HE. Verglas, IglooCode and Educatr are not associated with Slemish College or Strathearn School, and any publications from us do not represent their views. IglooCode and Educatr are trademarks of Verglas (NI) CIC.
+Verglas CIC  is a community interest company registered in Northern Ireland (no. NI716105). Registered office: Office 218, 92 Castle Street, Belfast, BT1 1HE. Verglas, IglooCode and Educatr are not associated with Slemish College or Strathearn School, and any publications from us do not represent their views. IglooCode and Educatr are trademarks of Verglas CIC.
